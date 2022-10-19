@@ -1,0 +1,138 @@
+body{
+    background-color: #f8f8ea;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+article{
+    text-align: center;
+    border: 1px static red;
+}
+
+.cabecalho{
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(71, 218, 96);
+}
+
+.logo{
+    width: 800px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    
+}
+
+.foto-home{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.foto-home>img{
+    width: 800px;
+    border: 1px solid black;
+}
+
+.promo{
+    float: left;
+    width: auto;
+}
+
+.texto01{
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    font-size: 40px;
+}
+
+.texto02{
+    text-align: center;
+    padding: 15px;
+    justify-content: center;
+}
+
+.textos{
+    margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+}
+
+.produtos{
+    margin: 0 auto;
+    text-align: center;
+    width: 1150px;
+    margin-bottom: 50px;
+}
+
+.imagens{
+  display: inline-block;
+}
+
+.imagens>img{
+    width: 250px;
+    justify-content: center;
+    padding: 0px;
+    margin: 0 7px 3px 0;
+    border: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(10, 10, 9);
+}
+
+table{
+    width: 450px;
+    margin: 40px;
+    text-align: center;
+}
+
+td,tr,th{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th{
+    background-color: rgb(241, 255, 47);
+}
+
+.tabela{
+    display: table;
+    margin: 0 auto;
+}
+
+.rodape{
+    text-align: center;
+}
+
+.lateral{
+    margin: 10px;
+}
+
+.contato01{
+    border: 1px solid black;
+    padding: 40px;
+    display: table;
+    margin: 100px auto;
+}
+
+.contato02{
+    text-align: center;
+}
+
+#nome{
+    margin: 3px;
+}
+
+#email{
+    margin: 3px;
+}
+
+#numero{
+    margin: 3px;
+}
+
+
+
+
+
